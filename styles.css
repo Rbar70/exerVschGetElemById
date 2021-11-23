@@ -1,0 +1,23 @@
+  
+body
+{background-color: #000000;}
+h1
+{
+    color:#e98f29;
+    text-align: center;
+    font-size: 150%;
+   
+}
+h2
+{
+    color:#ffe600;
+    text-align: center;
+    font-size: 120%;
+   
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
